@@ -16,7 +16,7 @@ setup(
     description='Open Redirect DDoS WebAbuse Botnet Manager',
     url='http://ufonet.03c8.net/',
     long_description=open('docs/README.txt').read(),
-    packages=['botnet', 'core', 'maps', 'server'],
+    packages=['botnet', 'core', 'server'],
     requires=['geoip (>=0.3.2)', 'requests', 'pycrypto', 'pycurl'],
     data_files=[
       'maps/GeoIPASNum.dat', 'maps/GeoLiteCity.dat', 
