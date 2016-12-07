@@ -17,8 +17,8 @@
 
 ----------
 
- UFONet is released under the GPLv3+. You can find the full license text
-in the [LICENSE](./LICENSE) file.
+ UFONet is released under the GPLv3. You can find the full license text
+in the [LICENSE](./docs/LICENSE) file.
 
 ----------
 
@@ -50,6 +50,7 @@ in the [LICENSE](./LICENSE) file.
  * PyCurl: http://pycurl.sourceforge.net/
  * PyGeoIP: https://pypi.python.org/pypi/GeoIP/
  * PyCrypto: https://pypi.python.org/pypi/pycrypto
- * Leaflet: http://leafletjs.com/
+ * Leaflet: http://leafletjs.com/ (provided)
 
 ----------
+
